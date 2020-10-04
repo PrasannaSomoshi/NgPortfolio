@@ -1,0 +1,42 @@
+.site-main .site-banner .site-title h3 {
+  padding-top: 30%;
+  font-weight: 500;
+}
+
+.site-main .site-banner .site-title h1 {
+  font-size: 3rem;
+}
+
+
+.site-main .site-banner .site-title h4 {
+  font-size: 1.5rem;
+}
+
+.site-main .site-banner .banner-image>img {
+  padding: 7rem 7rem 7rem 7rem;
+  width: 50rem;
+}
+
+.btn1 {
+  padding: .8rem 2.2rem;
+  font: normal 500 16px/20px;
+  position: relative;
+  border: 3px solid transparent;
+  border-radius: 4px;
+
+
+}
+
+.btn1 .primary-button {
+
+  background: #523FAA;
+  background-clip: padding-box;
+  color: whitesmoke;
+  transition: background .6s ease;
+}
+
+.btn1.primary-button:hover {
+  background: #523FAA;
+  background-clip: padding-box;
+  color: black;
+}

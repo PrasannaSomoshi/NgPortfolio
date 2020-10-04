@@ -1,0 +1,36 @@
+/* Navigation Bar Starts from here */
+
+
+.header_area .main-menu .navbar .navbar-brand {
+  padding: 0 2rem 0 5rem;
+}
+
+.header_area .main-menu .navbar {
+  padding: 1rem 20rem;
+}
+
+.header_area .main-menu .nav-item .nav-link {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, cursive;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 1.7rem;
+  color: black;
+}
+
+.header_area .main-menu .navbar-nav .active a {
+  background: #523FAA;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.header_area .main-menu .navbar-nav a:hover {
+  background: #523FAA;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+
+
+/* End of Nav Bar */
